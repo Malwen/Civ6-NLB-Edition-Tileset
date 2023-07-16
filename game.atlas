@@ -580,9 +580,9 @@ TileSets/Civ6 NLB/Tiles/Moai-Pillaged2
   index: -1
 TileSets/Civ6 NLB/Tiles/Mount Fuji
   rotate: false
-  xy: 602, 20
-  size: 64, 56
-  orig: 64, 56
+  xy: 602, 4
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 NLB/Tiles/Mount Kailash
