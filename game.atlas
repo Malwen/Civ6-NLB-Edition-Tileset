@@ -34,7 +34,7 @@ TileSets/Civ6 NLB/Railroad
   index: -1
 TileSets/Civ6 NLB/Road
   rotate: false
-  xy: 314, 16
+  xy: 818, 20
   size: 60, 32
   orig: 60, 32
   offset: 0, 0
@@ -272,28 +272,28 @@ TileSets/Civ6 NLB/Tiles/Fallout
   index: -1
 TileSets/Civ6 NLB/Tiles/Farm
   rotate: false
-  xy: 242, 4
-  size: 64, 64
-  orig: 64, 64
+  xy: 314, 192
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 NLB/Tiles/Farm-Pillaged
   rotate: false
-  xy: 314, 128
-  size: 64, 64
-  orig: 64, 64
+  xy: 314, 112
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 NLB/Tiles/Farm-Pillaged2
   rotate: false
-  xy: 314, 56
-  size: 64, 64
-  orig: 64, 64
+  xy: 314, 32
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 NLB/Tiles/Farm2
   rotate: false
-  xy: 314, 200
+  xy: 242, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
