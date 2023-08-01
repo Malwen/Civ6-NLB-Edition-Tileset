@@ -216,9 +216,9 @@ TileSets/Civ6 NLB/Tiles/Lakes
   index: -1
 TileSets/Civ6 NLB/Tiles/Customs house
   rotate: false
-  xy: 1853, 444
-  size: 64, 64
-  orig: 64, 64
+  xy: 1853, 436
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 NLB/Tiles/Desert
@@ -545,7 +545,7 @@ TileSets/Civ6 NLB/Tiles/Mine
   index: -1
 TileSets/Civ6 NLB/Tiles/Mine-Pillaged
   rotate: false
-  xy: 1853, 372
+  xy: 1853, 364
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
