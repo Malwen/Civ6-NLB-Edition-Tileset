@@ -370,23 +370,23 @@ TileSets/Civ6 NLB/Tiles/Flood plains
   index: -1
 TileSets/Civ6 NLB/Tiles/Forest
   rotate: false
-  xy: 314, 112
-  size: 64, 64
-  orig: 64, 64
+  xy: 314, 104
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 NLB/Tiles/ForestLow
   rotate: false
-  xy: 242, 40
-  size: 64, 64
-  orig: 64, 64
+  xy: 242, 32
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 NLB/Tiles/ForestUp
   rotate: false
-  xy: 314, 40
-  size: 64, 64
-  orig: 64, 64
+  xy: 314, 24
+  size: 64, 72
+  orig: 64, 72
   offset: 0, 0
   index: -1
 TileSets/Civ6 NLB/Tiles/Fort
